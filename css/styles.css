@@ -57,9 +57,27 @@ h3 {
 
 }
 
+.profile {
+  line-height: 2;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+
+.skill-img {
+  width: 15%;
+}
+
+.test-img {
+  width: 15%;
+}
+
+.dev-img {
+  width: 15%;
 }
 
 .bottom-container {
